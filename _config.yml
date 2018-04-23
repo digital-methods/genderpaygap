@@ -1,6 +1,6 @@
-theme: jekyll-theme-dinky
-title: The title of the website shows here
-description: A rapid description of the website content
+theme: jekyll-theme-architect
+title: Gender Pay Gap
+description: Tracing the online discussion on Gender Pay Gap through YouTube comments
 menu: [
 {'name': 'Home', 'pagename': 'index'},
 {'name': 'sharks here !', 'pagename': 'page1'},
