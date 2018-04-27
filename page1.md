@@ -1,10 +1,10 @@
 # Methodology 
 <p>To carry out an analysis of the comments, we first decided to collect the 100 most viewed videos, as they represented the most popular content and thus one with the highest degree of interaction from users. To that end, we used YouTube Data Tools, which created a list of video information and statistics from through retrieval by a search query, in our case ‘gender pay gap.’ The script crawled YouTube’s API, collecting both videos and their static data. </p>
-<p>We then used the Video Info and Comment Section Module of the Data Tools to collect comments from our list of videos. The tool again uses YouTube’s API to retrieve the following information:</p>
+<p>We then used the Video Info and Comment Section Module of the Data Tools to collect comments from our list of videos. The tool again uses YouTube’s API to retrieve the following information:
 - basic info and statistics about the video; <br />
 - all retrievable comments, both top level and replies; <br />
 - comment authors and their comment count <br />
-- interactions between users in the comment section in the form of a network file;<br />
+- interactions between users in the comment section in the form of a network file;<br /></p>
 
 <p> We decided to delete videos that had disabled comments or were in foreign languages. Out of 100 initially collected videos, 88 were left, which gave us a total number of around 296916 comments (we were unable to run Corpus Explorer as the size of our dataset was too big). </p>
 <p> Having retrieved the comments and information about their users as well as interactions between them, we then used a visual text analytics system (CorText) that allows to apply network analysis to automatically retrieved semantic networks and provides interactive visualization. To that end, we utilised topic modeling with 5 topics, adjectives-adjectives semantic network mapping with 100 and then 200 most common adjectives, network mapping of repetitive comments (appearing at least twice), as well as network mapping of users, videos, and adjectives. The outcomes of these analyses and specific parameters of network mappings are addressed in the discussion section. </p>
