@@ -4,7 +4,7 @@
 <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/3bc4aba8411b3289fd4f627c0e23d563
 " frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
 
-<p> While the map looks somewhat cluttered at first sight, it reveals 13 quite distinct clusters, as listed below:  
+<p> While the map looks somewhat cluttered at first sight, it reveals 13 quite distinct clusters, as listed below: <br /> 
 
 1. Average & Earnings: discussions revolving around money <br />
 2. Dumb & Fuck: This is likely related to comments that could be classified as ‘trolling’ and those related to ‘dooming’ gender pay gap. 
