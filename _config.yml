@@ -2,9 +2,9 @@ theme: jekyll-theme-architect
 title: Gender Pay Gap
 description: Tracing the online discussion on Gender Pay Gap through YouTube comments
 menu: [
-{'name': 'Introduction', 'pagename': 'index'},
+{'name': 'Introduction', 'pagename': 'introduction'},
 {'name': 'Methodology', 'pagename': 'page1'},
 {'name': 'Discussion', 'pagename': 'page2'},
-{'name': 'Limitations and conclusion', 'pagename': 'page3'},
+{'name': 'Limitations & conclusion', 'pagename': 'page3'},
 {'name': 'YouTube videos', 'pagename': 'page4'},
 ]
