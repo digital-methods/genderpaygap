@@ -1,6 +1,6 @@
 # Methodology 
 <p>To carry out an analysis of the comments, we first decided to collect the 100 most viewed videos, as they represented the most popular content and thus one with the highest degree of interaction from users. To that end, we used YouTube Data Tools, which created a list of video information and statistics from through retrieval by a search query, in our case ‘gender pay gap.’ The script crawled YouTube’s API, collecting both videos and their static data. </p>
-<p>We then used the Video Info and Comment Section Module of the Data Tools to collect comments from our list of videos. The tool again uses YouTube’s API to retrieve the following information:
+<p>We then used the Video Info and Comment Section Module of the Data Tools to collect comments from our list of videos. The tool again uses YouTube’s API to retrieve the following information: <br />
 - basic info and statistics about the video; <br />
 - all retrievable comments, both top level and replies; <br />
 - comment authors and their comment count <br />
