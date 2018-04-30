@@ -50,7 +50,8 @@
 " frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
 <font size="2"> Specifics: "default" proximity measure and 10 labels and 150 nodes videos/commentators/adjectives map </font> <br />
 
-<embed src="https://documents.cortext.net/1af1/1af13f91fce5319a79ae4957748dbc14/73688/maps/hn-gpgvideos12008_2018top150-authorName-videoTitle-chi2cooc-99999-oT5.08-9999-infTrueoT5.08tagchi2_False.pdf" type="application/pdf" />
+
+<iframe id="iframepdf" src="https://documents.cortext.net/1af1/1af13f91fce5319a79ae4957748dbc14/73688/maps/hn-gpgvideos12008_2018top150-authorName-videoTitle-chi2cooc-99999-oT5.08-9999-infTrueoT5.08tagchi2_False.pdf"></iframe>
 
 <p> The map shows co-occurrences of commentators over videos. The three variables for the analysis were video title, commentator, and the 200 adjectives extracted as the third variable. The amount of nodes selected was 150, the proximity measure used was an indirect one, ‘distributional’, with heterogeneous edges. Ten labels were used for the third variable, in the map next to their respective clusters, and as listed below in the respective analyses of the four clusters that were formed, namely, Blue, Green, Turquoise, and Orange. </p> 
 
