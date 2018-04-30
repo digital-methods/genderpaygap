@@ -7,7 +7,7 @@
 <p> While the map looks somewhat cluttered at first sight, it reveals 13 quite distinct clusters, as listed below: <br /> 
 
 1. Average & Earnings: discussions revolving around money <br />
-2. Dumb & Fuck: This is likely related to comments that could be classified as ‘trolling’ and those related to ‘dooming’ gender pay gap. 
+2. Dumb & Fuck: This is likely related to comments that could be classified as ‘trolling’ and those related to ‘dooming’ gender pay gap. <br /> 
 3. Scientific & Argument: This could relate to discussions refuting the existence of any scientific arguments for the validity of gender pay gap. <br />
 4. News & Fake: Comments referring to gender pay gap as ‘fake news’. <br />
 5. Equal & Rape: ‘Rape’ in the map connects to the terms sexual, false, domestic, legal. The emergence of the term in debates surrounding gender inequality is not all that surprising. However, its connection to ‘equal’ is somewhat ambiguous, but could be related to arguments for men facing gender inequality as well, i.e. arguments such as ‘Men get raped too’. <br />
