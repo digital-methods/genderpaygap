@@ -2,6 +2,13 @@
 # Some examples of Gender Pay Gap videos 
 
 ## Wage Gap: Last Week Tonight with John Oliver (HBO)
+
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/PsB1e-1BB4Y">
+</iframe>
+
+
   <object width="425" height="350">
   <param name="movie" value="https://www.youtube.com/watch?v=PsB1e-1BB4Y" />
   <param name="wmode" value="transparent" />
