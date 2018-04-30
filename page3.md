@@ -8,7 +8,7 @@
 ## General limitations
 <p>We do not analyse whether there is a difference between comments on videos from media sites, such as CNN, and individual YouTube content creators (individuals who create vlogs or videos themselves). Given that individual YouTube content creators arguably have a smaller audience, you could say that users who comment on these videos from are participating in a smaller community, in which they may be more personally interested in and therefore more likely to actively engage through comments. This intern may influence the kind of discussion taking place. </p>
 
-<p> This kind of analysis does not tell you the opinions or attitudes of users who do not comment bu dot watch the videos. Therefore, it is representative only for users who choose to engage with YouTube in this way (Thelwell, 2017). </p>
+<p> This kind of analysis does not tell you the opinions or attitudes of users who do not comment but do watch the videos. Therefore, it is representative only for users who choose to engage with YouTube in this way (Thelwell, 2017). </p>
 
 <p> Current vocabularies do not pick up slang, emojis, and seem particularly bad for irony and sarcasm, all prominent within YouTube comments and online discourse in general. For that reason, we were unable to successfully perform sentiment analysis of the comments, as it produced unintelligible results. </p>
 
