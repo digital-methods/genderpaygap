@@ -6,3 +6,5 @@
 - Fan, W., & Gordon, M. D. (2014). The Power of Social Media Analytics. <i>Communications ACM</i>, 57(6), 74–81. <br />
 - Ichino, A., & Moretti, E. (2009). Biological Gender Differences, Absenteeism, and the Earnings Gap. <i> American Economic Journal: Applied Economics,</i> 1(1), 183–218. <br />
 - Plantenga, J., & Remery, C. (2006). The Gender Pay Gap. Origins and Policy Responses. A comparative Review of Thirty European Countries. <i>Synthèse Du Rapport Pour La Commission Européenne, Equality Unit.</i> <br />
+- Thelwall, M. (2018). Social media analytics for YouTube comments: potential and limitations. <i> International Journal of Social Research Methodology, </i> 21(3), 303–316. 
+
