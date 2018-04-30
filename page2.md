@@ -44,11 +44,13 @@
 
 <p> This map links authors who commented the same thing more than once, this can either be the same comment on the one video, for example commenter Muck006 posts the comment beginning with ‘that is her interview style’ more than once on the video ‘Jordan Peterson debate on the gender pay gap, campus protests and postmodernism’. This might be spam but it shows users repeat their points across the same video. Also, there are examples where authors post the same comment on different videos, for example the comment starting with ‘ for every person (or feminist) reading this:’ (in the blue cluster of the top left corner of the map) has been posted on three different videos by the username ‘pietje bel’. This illustrates a repetitive manner of sharing their message by commenters, across several videos, indicating that these users are commenting in a fairly deliberate way rather than just spontaneously reacting to a video they watched. However, it is hard to see whether this deliberate commenting is motivated by a desire to combat a particular message or whether the user, after watching one video and commenting, fell into a trap of watching multiple videos and copy-pasting the same thing. At very least, this demonstrates a high level of interaction with the videos. </p>
 
-## Semantic network analysis: videos and commentators
+## Semantic network analysis: videos and commentators, Graph A
 
 <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/68152a37682690606dfc90cef9404155
 " frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
 <font size="2"> Specifics: "default" proximity measure and 10 labels and 150 nodes videos/commentators/adjectives map </font> <br />
+
+<embed src="https://documents.cortext.net/1af1/1af13f91fce5319a79ae4957748dbc14/73688/maps/hn-gpgvideos12008_2018top150-authorName-videoTitle-chi2cooc-99999-oT5.08-9999-infTrueoT5.08tagchi2_False.pdf" type="application/pdf" />
 
 <p> The map shows co-occurrences of commentators over videos. The three variables for the analysis were video title, commentator, and the 200 adjectives extracted as the third variable. The amount of nodes selected was 150, the proximity measure used was an indirect one, ‘distributional’, with heterogeneous edges. Ten labels were used for the third variable, in the map next to their respective clusters, and as listed below in the respective analyses of the four clusters that were formed, namely, Blue, Green, Turquoise, and Orange. </p> 
 
