@@ -48,6 +48,7 @@
 
 <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/68152a37682690606dfc90cef9404155
 " frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
+<font size="2"> Specifics: "default" proximity measure and 10 labels and 150 nodes videos/commentators/adjectives map </font> <br />
 
 <p> The map shows co-occurrences of commentators over videos. The three variables for the analysis were video title, commentator, and the 200 adjectives extracted as the third variable. The amount of nodes selected was 150, the proximity measure used was an indirect one, ‘distributional’, with heterogeneous edges. Ten labels were used for the third variable, in the map next to their respective clusters, and as listed below in the respective analyses of the four clusters that were formed, namely, Blue, Green, Turquoise, and Orange. </p> 
 
@@ -118,5 +119,7 @@
 8. Deal <br />
 9. Dangerous <br />
 10. Human </p> 
+
+
 
 
