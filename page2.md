@@ -27,7 +27,7 @@
 ## Commenters, videos, and comment repetition 
 <p> In this section we looked at whether comments were repeated across videos, using two different maps. </p>
 
-<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/e46cac6266a05858ffdb6c75dce6c17d
+<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/faf17ebdf00fd1affacaa129eee96338
 " frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
 <font size="2"> Specifics: 1000 nodes, author, video title, raw, proximity threshold 2 </font> <br />
 
@@ -38,7 +38,7 @@
 <p> The types of repeated comments vary, some of them being lengthy, while the majority bing single words like ‘lol’, or ‘feminism’ or even ‘0’ (from username Brocoli Assasin). However, what is notable is some comments’ paranoia-spreading nature, for example the user ‘Logic Monkey’ commenting more than once ‘Did you know roughly 50 top comments have been deleted thus far? that’s all of them… you are next’ and ‘Every single Top comments have been deleted since the video was posterd [sic] … like 70 so far. Go ahead start some conversation in the top comments… watch them get deleted… been watching it  for 6 weeks now. When they reach 2k-5k they are deleted. This is a copy and paste… been posting it for 6 weeks :\ ‘, this comment being on the ‘Jordan Peterson debate on gender pay gap, campus protests and postmodernism’, which we found by cross referencing the comment with the video titles on Map 2. </p>
 
 ### Map 2 
-<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/faf17ebdf00fd1affacaa129eee96338
+<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/e46cac6266a05858ffdb6c75dce6c17d
 " frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
 <font size="2"> Specifics: 1000 nodes, text, video title, raw, proximity threshold 2 </font> <br />
 
