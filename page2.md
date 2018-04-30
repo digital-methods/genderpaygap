@@ -209,7 +209,6 @@ We produced another map with the same settings, but using the chi2 proximity mea
 
 <p> Another cluster containing a binarity appears in the quantitative/statistical aspect of the male-female gap: the hard-easy binarity (green). Only ‘harder’ appeared in the 100 most popular adjectives mapping, and only as a minor node to the the quantitative/statistical cluster. This suggests that, while not more discussed than other quantitative/statistical aspects of the gap, arduousness forms a distinct cluster that is, like gender, talked about in binary terms. </p>
 
-
 <p> The 200 most popular adjectives semantic network map clarifies that the race discussion already identified with the 100 most popular adjectives map is contextualised and mixed within the same cluster as a similar discussion on sexual orientation (gay, straight).
 
 <p> As concerns the discussion on feminism as such, more adjectives contextualising feminism with a negative connotation appear such as ‘leftist’, ‘fake’, ‘angry’, ‘typical’, ‘dishonest’. </p>
@@ -230,7 +229,7 @@ We produced another map with the same settings, but using the chi2 proximity mea
 
 <iframe src="https://documents.cortext.net/a269/a269cab1006094d9789290d01d4bb2a6/73591/vislda.html 
 " frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
-<font size="2"> Specifics: We produced an intertopic distance map displaying 5 topics (the first attempt, with 10 topics was inconclusive with regards to readability of the data’s topic modelling).  </font> <br />
+<font size="2"> Specifics: We produced an intertopic distance map displaying 5 topics (the first attempt, with 10 topics was inconclusive with regards to readability of the data’s topic modelling).  </font> <br /> <br /> 
 
 <p> This map is informative regarding the proportion of speech in the comments carrying on the substance of the topic of the gender-pay gap (topic 1,2 and 4) and speech that is not very substantial, leaning towards trolling or youtube networking/jargon (topic 2 and topic 5). </p>
 
