@@ -1,5 +1,5 @@
 # Discussion
-### Semantic network analysis: nouns and adjectives 
+## Semantic network analysis: nouns and adjectives 
 
 <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/3bc4aba8411b3289fd4f627c0e23d563
 " frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
@@ -24,7 +24,7 @@
 
 <p> A second emerging theme is the discussion surrounding feminism, and its perceived excessive radical character in particular, with focus on comments about Third Wave Feminism. What is perhaps noticeable is that the discussion revolves around Third, not Fourth Wave feminism specifically, which could be due to it being perceived more moderate and reasonable than its successor. </p> 
 
-### Commenters, videos, and comment repetition 
+## Commenters, videos, and comment repetition 
 <p> In this section we looked at whether comments were repeated across videos, using two different maps. </p>
 
 <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/e46cac6266a05858ffdb6c75dce6c17d
@@ -37,14 +37,14 @@
 
 <p> The types of repeated comments vary, some of them being lengthy, while the majority bing single words like ‘lol’, or ‘feminism’ or even ‘0’ (from username Brocoli Assasin). However, what is notable is some comments’ paranoia-spreading nature, for example the user ‘Logic Monkey’ commenting more than once ‘Did you know roughly 50 top comments have been deleted thus far? that’s all of them… you are next’ and ‘Every single Top comments have been deleted since the video was posterd [sic] … like 70 so far. Go ahead start some conversation in the top comments… watch them get deleted… been watching it  for 6 weeks now. When they reach 2k-5k they are deleted. This is a copy and paste… been posting it for 6 weeks :\ ‘, this comment being on the ‘Jordan Peterson debate on gender pay gap, campus protests and postmodernism’, which we found by cross referencing the comment with the video titles on Map 2. </p>
 
-#### Map 2 
+### Map 2 
 <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/faf17ebdf00fd1affacaa129eee96338
 " frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
 <font size="2"> Specifics: 1000 nodes, text, video title, raw, proximity threshold 2 </font> <br />
 
 <p> This map links authors who commented the same thing more than once, this can either be the same comment on the one video, for example commenter Muck006 posts the comment beginning with ‘that is her interview style’ more than once on the video ‘Jordan Peterson debate on the gender pay gap, campus protests and postmodernism’. This might be spam but it shows users repeat their points across the same video. Also, there are examples where authors post the same comment on different videos, for example the comment starting with ‘ for every person (or feminist) reading this:’ (in the blue cluster of the top left corner of the map) has been posted on three different videos by the username ‘pietje bel’. This illustrates a repetitive manner of sharing their message by commenters, across several videos, indicating that these users are commenting in a fairly deliberate way rather than just spontaneously reacting to a video they watched. However, it is hard to see whether this deliberate commenting is motivated by a desire to combat a particular message or whether the user, after watching one video and commenting, fell into a trap of watching multiple videos and copy-pasting the same thing. At very least, this demonstrates a high level of interaction with the videos. </p>
 
-### Semantic network analysis: videos and commentators
+## Semantic network analysis: videos and commentators
 
 <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/68152a37682690606dfc90cef9404155
 " frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
@@ -173,6 +173,76 @@
 
 We produced another map with the same settings, but using the chi2 proximity measure instead, thus using a direct instead of a direct measure, the indirect one taking into account only the number of raw co-occurrences between the two nodes and not global distribution. Thus, the map produced is generally similar but differently ordered. 
 
+
+## Semantic network analysis: adjectives and adjectives (100)
+
+<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/cc501f7f59d062c1d64894a187743019 
+" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
+<font size="2"> Specifics: log likelihood function and a 0.1 proximity measure and has 150 nodes.  </font> <br />
+
+
+<p> We produced a semantic network mapping of the 100 most popular adjectives across comments. We can note the presence of several identifiable clusters, which reflect different general discussions using distinct vocabularies to express views on the gender-pay gap on YouTube. </p>
+
+<p> One such discussion approaches race, containing the adjectives ‘racist, white, black, good, idiot, funny’ (dark blue and red). This indicates that race may be a central discussion, at least in certain hubs of the network. ‘White’ figures as a central node both in terms of betweenness and centrality (in the ‘top’ half of the network). Some other adjectives, relating to other social groups, are also linked to the race cluster while not central in this discussion, such as ‘poor’ or ‘straight’. </p>
+
+<p> Another discussion (light blue) carries on feminism as such. Unsurprisingly, feminist is a central note both in terms of betweenness and centrality (in connects many nodes and is central when looking at the “top” of the network). In this discussion, ‘feminist’ is for a large part contextualised by its betweenness with ‘radical’, ‘liberal’ and ‘political’, ‘crazy’, and ‘false’. </p>
+
+<p> Another discussion (orange), which is the widest in its clustering of most popular adjectives, seems to be centred on the quantitative, statistical aspect of the male-female gap, with central adjectives being ‘less’, ‘more’, ‘same’, ‘higher’, ‘lower’, ‘average’, ‘different’, ‘many’, ‘much’, etc. The neutral adjectives of the male – female binarity, forming a cluster of its own (green), is most firmly contextualised in the discussion on the quantitative/statistical aspect of the debate. </p>
+
+<p> Lastly, the popularity per se of certain adjectives is worth commenting on. </p>
+
+<p> The fact that straight appears as one of the 100 most popular adjectives across tens of thousands of comments, indicates that sexual orientation is brought up quite often. </p>
+
+<p> The fact that adjectives such as sick, wrong, damn, worse, stupid, retard, dumb, idiot, crazy, etc. are among the 100 most prominent could indicate that the debate is quite polemic. </p>
+
+## Semantic network analysis: adjectives and adjectives (200)
+
+<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/2c7183292aa0e1816820710eea952672 
+" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
+<font size="2"> Specifics: log likelihood function and a 0.1 proximity measure and has 150 nodes. </font> <br />
+
+<p> We produced a semantic network mapping of the 200 most popular adjectives across comments. This map allows us to analyse the semantic network mapping of the most popular adjectives further than the 100 adjectives mapping. </p>
+
+<p> Firstly, two new discussion clusters appear, which overlap with each other : one discussion approaching social/natural/cultural causal adjectives (nodes: other (central), social, cultural, economic, human, natural, etc.) and the other normative judgement in moderated language (nodes : good (central), nice, worse, new, old, etc.). This may indicate that comments expressing a normative judgement in moderated language overlap with those that channel causal language (whether social, biological, or economic). Also, the fact that these clusters only appear in the 200 most popular adjectives and not in the 100 most popular adjectives mapping may indicate that the discussion with normative judgement in moderated language only comes in second place. </p>
+
+<p> Otherwise, while we can find mostly the same clusters as in the 100 most popular adjectives mapping, some more detailed clustering is clarified by the increase to 200 adjectives. </p>
+
+<p> Another cluster containing a binarity appears in the quantitative/statistical aspect of the male-female gap: the hard-easy binarity (green). Only ‘harder’ appeared in the 100 most popular adjectives mapping, and only as a minor node to the the quantitative/statistical cluster. This suggests that, while not more discussed than other quantitative/statistical aspects of the gap, arduousness forms a distinct cluster that is, like gender, talked about in binary terms. </p>
+
+
+<p> The 200 most popular adjectives semantic network map clarifies that the race discussion already identified with the 100 most popular adjectives map is contextualised and mixed within the same cluster as a similar discussion on sexual orientation (gay, straight).
+
+<p> As concerns the discussion on feminism as such, more adjectives contextualising feminism with a negative connotation appear such as ‘leftist’, ‘fake’, ‘angry’, ‘typical’, ‘dishonest’. </p>
+
+<p> The 200 most popular adjectives semantic network map clarifies also clarifies that the feminism as such discussion is very proximate to the discussion on accuracy (nodes: stupid (central), dumb, ignorant, intelligent, smart, retarded, etc.), which connects this cluster, with the next focusing on sexual orientation and race. Meanwhile, the clusters on race/sexual orientation and accuracy are relatively distant to that on quantitative-statistical adjectives, suggesting that the quantitative/statistical discussion attracts less language on race/sexual orientation and accuracy than feminism as such. </p>
+
+<p> A few adjectives serve as inter-cluster bridges, that is they have relatively weak (or few) ties, but they connect different clusters. </p>
+
+<p> Firstly, ‘political’ connects the cluster of social/natural/cultural adjectives to the cluster on feminism as such. This reflects that it is an important adjective in both discussions and one of the few top adjectives connecting both. </p>
+
+<p> Secondly, ‘white’ continues to be a fairly central note in terms of degree (albeit less than feminist). ‘White’ is contextualised both by the male-female binarity within the quantitative/statistical discussion and nodes in all other clusters, forming a unique link accross clusters, and indicating that whiteness is part of all discussions (albeit a small one). </p>
+
+
+<p> Like the 100 most popular adjectives map, the network does not seem dense, and displays many structural holes. This is due to the use of the log-likelihood function (and not the ‘raw’ co-occurrences function). </p>
+
+
+## Topic modeling with 5 topics 
+
+<iframe src="https://documents.cortext.net/a269/a269cab1006094d9789290d01d4bb2a6/73591/vislda.html 
+" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
+<font size="2"> Specifics: We produced an intertopic distance map displaying 5 topics (the first attempt, with 10 topics was inconclusive with regards to readability of the data’s topic modelling).  </font> <br />
+
+<p> This map is informative regarding the proportion of speech in the comments carrying on the substance of the topic of the gender-pay gap (topic 1,2 and 4) and speech that is not very substantial, leaning towards trolling or youtube networking/jargon (topic 2 and topic 5). </p>
+
+<p> Topic 1, the largest topic, is quite substantial and displays a fairly neutral list of terms, terms that we would substantially expect in debates about gender pay gap (men, women, gender, get, make, paid, money, child, equal, hour, study, work, gap, wage, etc.). </p>
+
+<p> Topic 2 is still rather substantial and could be understood to be centred on the feminist discourse and its reception (people, feminist, think, know, want, say, feminism, mean, believe, wrong, etc.). </p>
+
+<p> Topic 3 seems to relate to youtube networking and jargon (br, comment, source, see, this, read, love, oh question). </p>
+
+<p> Topic 4 seems to be very holistic and encompasses societal topics at large (year, world, society, jesus, government, social, female, state, million, school, sport, opportunity, informaion, human, male). </p>
+
+<p> Topic 5 contains mostly obscenities, insults or trolling language (fucking, bitch, shit, fuck, old, sorry, god, idiot, hell, etc.) </p>
 
 
 
