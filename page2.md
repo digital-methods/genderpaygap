@@ -229,9 +229,10 @@ We produced another map with the same settings, but using the chi2 proximity mea
 
 
 <p> Like the 100 most popular adjectives map, the network does not seem dense, and displays many structural holes. This is due to the use of the log-likelihood function (and not the ‘raw’ co-occurrences function). </p>
+<br />
 
 
-## Topic modeling with 5 topics 
+## Topic modeling with 5 topics <br />
 
 <iframe src="https://documents.cortext.net/a269/a269cab1006094d9789290d01d4bb2a6/73591/vislda.html 
 " frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
