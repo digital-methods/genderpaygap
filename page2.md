@@ -148,6 +148,9 @@ src="https://www.youtube.com/embed/1oqyrflOQFc">
 " frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
 <font size="2"> Specifics: Graph B was ran with the same parameters as Graph A, except for the utilisation or a different indirect distributional measure, namely, cosine_het. </font> <br />
 
+
+<iframe id="iframepdf" src="https://documents.cortext.net/018b/018bfe1c05b2e0b3726751f90438d817/73692/maps/hn-gpgvideos12008_2018top150-videoTitle-authorName-cosine_hetcooc-99999-oT0.13-9999-infFalseoT0.13tagchi2_False.pdf"></iframe>
+
 ### Videos and commenters: Graph C
 
 <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/5d25180c774b1c6146665dd21805deb1
