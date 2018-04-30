@@ -56,7 +56,7 @@
 
 <p> As we can observe, by a significant measure the largest cluster is the blue one, furthermore densely interconnected. There are three particularly large nodes in this discussion, corresponding to videos two, three, and four on our list of most viewed videos, namely ‘Wage Gap: Last Week Tonight with John Oliver (HBO)’(embed link on website https://www.youtube.com/watch?v=PsB1e-1BB4Y), ‘Is the Gender Pay Gap Real?’ (https://www.youtube.com/watch?v=it0EYBBl5LI), and ‘The Myth of the Gender Wage Gap’ (https://www.youtube.com/watch?v=1oqyrflOQFc). The first of these is a show that covers recent events with a humoristic twist, the second a more neutral account laying out arguments, and the third a somewhat politicised account by a conservative digital media organisation, PragerU. What this variety of different types of videos perhaps illustrates is the complexity and controversiality of the issue, as well as the contribution of very different types of stakeholders into the discussion. </p> 
 
-<p> The cluster is tagged by the following list of the 10 most co-occurring adjectives:
+<p> The cluster is tagged by the following list of the 10 most co-occurring adjectives: <br />
 
 1. Less <br />
 2. More <br />
@@ -75,7 +75,7 @@
 
 <p> The Green cluster is one formed around the most commented of the videos in our sample, having 99,690 comments relative to around 20,000 comments of the second most-viewed video of the sample. The high amount of comments is probably due to the video’s ‘Jordan Peterson debate on the gender pay gap, campus protests and postmodernism’ controversial nature, and that of Jordan Peterson discussing the gender pay gap on the video (reference). </p> 
 
-<p> It was associated with the list of ten adjectives: 
+<p> It was associated with the list of ten adjectives: <br />
 
 1, Intelligent <br />
 2. Good <br />
@@ -93,7 +93,7 @@
 ##### Turquoise:
 
 <p> The turquoise cluster seems to be centred around discussions on race, as among the ten most used nouns and adjectives are quite evidently race-related terms such as ‘racist’, ‘black’, ‘white’, and terms also often associated with related discussions, relating to socio-economic differences between races, with terms such as ‘poor’, ‘political’, and ‘economic’, as we can see listed below.  
-
+<br />
 1. Black <br />
 2. Racist <br />
 3. White <br />
@@ -107,7 +107,7 @@
 
 #### Orange:
 
-<p> The orange cluster, partly due to its smaller size, is somewhat more difficult to interpret. 
+<p> The orange cluster, partly due to its smaller size, is somewhat more difficult to interpret. <br />
 
 1. Higher <br />
 2. Female <br />
@@ -119,6 +119,31 @@
 8. Deal <br />
 9. Dangerous <br />
 10. Human </p> 
+
+
+### Videos and commenters: Graph B
+
+<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/855edde2a6dd006ff50ab9fe24e9e016
+" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
+<font size="2"> Specifics: Graph B was ran with the same parameters as Graph A, except for the utilisation or a different indirect distributional measure, namely, cosine_het. </font> <br />
+
+### Videos and commenters: Graph C
+
+<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/5d25180c774b1c6146665dd21805deb1
+" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
+
+<p> The network was built with three variables of videotitle, commentator, and commentators. For this map the amount of nodes was set to 500, with ‘distributional’ proximity measure, heterogeneous edges. We again set ten labels for the third variable, in this case commentators. </p>
+
+<p> Map C links videos with commentators, but instead of adjectives listing the top 10 commentators next to each cluster of videos. While the map looks somewhat cluttered at first sight, the clusters contain videos that the same top ten commentators have engaged with, as seen on the labels next to the clusters, forming small communities around this group of videos. What we can also observe is that some users, such as ‘John Smith’ participate in multiple clusters. </p>
+
+### Videos and commenters: Graph D 
+
+<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/1fef13a8f723a276a2bdae434395d193
+" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
+
+We produced another map with the same settings, but using the chi2 proximity measure instead, thus using a direct instead of a direct measure, the indirect one taking into account only the number of raw co-occurrences between the two nodes and not global distribution. Thus, the map produced is generally similar but differently ordered. 
+
+
 
 
 
