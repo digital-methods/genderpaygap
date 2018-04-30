@@ -44,5 +44,79 @@
 
 <p> This map links authors who commented the same thing more than once, this can either be the same comment on the one video, for example commenter Muck006 posts the comment beginning with ‘that is her interview style’ more than once on the video ‘Jordan Peterson debate on the gender pay gap, campus protests and postmodernism’. This might be spam but it shows users repeat their points across the same video. Also, there are examples where authors post the same comment on different videos, for example the comment starting with ‘ for every person (or feminist) reading this:’ (in the blue cluster of the top left corner of the map) has been posted on three different videos by the username ‘pietje bel’. This illustrates a repetitive manner of sharing their message by commenters, across several videos, indicating that these users are commenting in a fairly deliberate way rather than just spontaneously reacting to a video they watched. However, it is hard to see whether this deliberate commenting is motivated by a desire to combat a particular message or whether the user, after watching one video and commenting, fell into a trap of watching multiple videos and copy-pasting the same thing. At very least, this demonstrates a high level of interaction with the videos. </p>
 
+### Semantic network analysis: videos and commentators
+
+<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/68152a37682690606dfc90cef9404155
+" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
+
+<p> The map shows co-occurrences of commentators over videos. The three variables for the analysis were video title, commentator, and the 200 adjectives extracted as the third variable. The amount of nodes selected was 150, the proximity measure used was an indirect one, ‘distributional’, with heterogeneous edges. Ten labels were used for the third variable, in the map next to their respective clusters, and as listed below in the respective analyses of the four clusters that were formed, namely, Blue, Green, Turquoise, and Orange. </p> 
+
+#### Blue:
+
+<p> As we can observe, by a significant measure the largest cluster is the blue one, furthermore densely interconnected. There are three particularly large nodes in this discussion, corresponding to videos two, three, and four on our list of most viewed videos, namely ‘Wage Gap: Last Week Tonight with John Oliver (HBO)’(embed link on website https://www.youtube.com/watch?v=PsB1e-1BB4Y), ‘Is the Gender Pay Gap Real?’ (https://www.youtube.com/watch?v=it0EYBBl5LI), and ‘The Myth of the Gender Wage Gap’ (https://www.youtube.com/watch?v=1oqyrflOQFc). The first of these is a show that covers recent events with a humoristic twist, the second a more neutral account laying out arguments, and the third a somewhat politicised account by a conservative digital media organisation, PragerU. What this variety of different types of videos perhaps illustrates is the complexity and controversiality of the issue, as well as the contribution of very different types of stakeholders into the discussion. </p> 
+
+<p> The cluster is tagged by the following list of the 10 most co-occurring adjectives:
+
+1. Less <br />
+2. More <br />
+3. Same <br />
+4. Illegal <br />
+5. Average <br />
+6. Lower <br />
+7. Due <br />
+8. Higher <br />
+9. Equal <br />
+10. Sexist </p> 
+
+<p> Many of these adjectives are somewhat neutral or general without a specific context (such as less/more/same/average/lower/higher), and thus struggle to dominantly convey anything in particular. What we can perhaps derive from this is that the discussions are taking surrounding the legality of the gender pay gap. </p> 
+
+#### Green: 
+
+<p> The Green cluster is one formed around the most commented of the videos in our sample, having 99,690 comments relative to around 20,000 comments of the second most-viewed video of the sample. The high amount of comments is probably due to the video’s ‘Jordan Peterson debate on the gender pay gap, campus protests and postmodernism’ controversial nature, and that of Jordan Peterson discussing the gender pay gap on the video (reference). </p> 
+
+<p> It was associated with the list of ten adjectives: 
+
+1, Intelligent <br />
+2. Good <br />
+3. Stupid <br />
+4. Dumb <br />
+5. Bad <br />
+6. Smart <br />
+7. Idiot <br />
+8. Poor <br />
+9. Great <br />
+10. Liberal </p> 
+
+<p> This list of adjectives is, again, somewhat neutral, but seems to indicate value-judgements made on people, perhaps specifically on Jordan Peterson, and Cathy Newman, who is interviewing him on the video. These value judgements are also evident in the top comments such as ‘Jordan Peterson had his arm broken after the interview, because of all the high fives he got for owning the debate.’, ‘What is wrong with this woman....﻿’, and ‘Is this woman even capable of one sophisticated thought?﻿’. </p> 
+
+##### Turquoise:
+
+<p> The turquoise cluster seems to be centred around discussions on race, as among the ten most used nouns and adjectives are quite evidently race-related terms such as ‘racist’, ‘black’, ‘white’, and terms also often associated with related discussions, relating to socio-economic differences between races, with terms such as ‘poor’, ‘political’, and ‘economic’, as we can see listed below.  
+
+1. Black <br />
+2. Racist <br />
+3. White <br />
+4. Poor <br />
+5. Own <br />
+6. Liberal <br />
+7. Old <br />
+8. Political <br />
+9. Economic <br />
+10. Intelligent </p> 
+
+#### Orange:
+
+<p> The orange cluster, partly due to its smaller size, is somewhat more difficult to interpret. 
+
+1. Higher <br />
+2. Female <br />
+3. Personal <br />
+4. Funny <br />
+5. Harder <br />
+6. Less <br />
+7. Nice <br />
+8. Deal <br />
+9. Dangerous <br />
+10. Human </p> 
 
 
