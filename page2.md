@@ -153,7 +153,21 @@ src="https://www.youtube.com/embed/1oqyrflOQFc">
 
 <br />
 
-### Videos and commenters: Graph C
+### Videos and commenters: Graph c 
+
+<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/1fef13a8f723a276a2bdae434395d193
+" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
+
+
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://documents.cortext.net/bf9a/bf9a93b0482fc86b454d797c239af941/74300/maps/hn-gpgvideos12008_2018top150-videoTitle-authorName-chi2cooc-99999-oT3.33-9999-infFalseoT3.33tagchi2_False.pdf" width="600" height="750">
+
+<br />
+
+We produced another map with the same settings, but using the chi2 proximity measure instead, thus using a direct instead of a direct measure, the indirect one taking into account only the number of raw co-occurrences between the two nodes and not global distribution. Thus, the map produced is generally similar but differently ordered. 
+
+
+
+### Videos and commenters: Graph D
 
 <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/5d25180c774b1c6146665dd21805deb1
 " frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
@@ -166,18 +180,6 @@ src="https://www.youtube.com/embed/1oqyrflOQFc">
 <p> The network was built with three variables of videotitle, commentator, and commentators. For this map the amount of nodes was set to 500, with ‘distributional’ proximity measure, heterogeneous edges. We again set ten labels for the third variable, in this case commentators. </p>
 
 <p> Map C links videos with commentators, but instead of adjectives listing the top 10 commentators next to each cluster of videos. While the map looks somewhat cluttered at first sight, the clusters contain videos that the same top ten commentators have engaged with, as seen on the labels next to the clusters, forming small communities around this group of videos. What we can also observe is that some users, such as ‘John Smith’ participate in multiple clusters. </p>
-
-### Videos and commenters: Graph D 
-
-<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/1fef13a8f723a276a2bdae434395d193
-" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
-
-
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://documents.cortext.net/bf9a/bf9a93b0482fc86b454d797c239af941/74300/maps/hn-gpgvideos12008_2018top150-videoTitle-authorName-chi2cooc-99999-oT3.33-9999-infFalseoT3.33tagchi2_False.pdf" width="600" height="750">
-
-<br />
-
-We produced another map with the same settings, but using the chi2 proximity measure instead, thus using a direct instead of a direct measure, the indirect one taking into account only the number of raw co-occurrences between the two nodes and not global distribution. Thus, the map produced is generally similar but differently ordered. 
 
 
 ## Semantic network analysis: adjectives and adjectives (100)
