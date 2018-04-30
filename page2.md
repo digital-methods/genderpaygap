@@ -50,8 +50,9 @@
 " frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
 <font size="2"> Specifics: "default" proximity measure and 10 labels and 150 nodes videos/commentators/adjectives map </font> <br />
 
-
-<iframe id="iframepdf" src="https://documents.cortext.net/1af1/1af13f91fce5319a79ae4957748dbc14/73688/maps/hn-gpgvideos12008_2018top150-authorName-videoTitle-chi2cooc-99999-oT5.08-9999-infTrueoT5.08tagchi2_False.pdf"></iframe>
+<object data="https://documents.cortext.net/1af1/1af13f91fce5319a79ae4957748dbc14/73688/maps/hn-gpgvideos12008_2018top150-authorName-videoTitle-chi2cooc-99999-oT5.08-9999-infTrueoT5.08tagchi2_False.pdf" type="application/pdf">
+    <iframe src="https://docs.google.com/viewer?url=your_url_to_pdf&embedded=true"></iframe>
+</object>
 
 <p> The map shows co-occurrences of commentators over videos. The three variables for the analysis were video title, commentator, and the 200 adjectives extracted as the third variable. The amount of nodes selected was 150, the proximity measure used was an indirect one, ‘distributional’, with heterogeneous edges. Ten labels were used for the third variable, in the map next to their respective clusters, and as listed below in the respective analyses of the four clusters that were formed, namely, Blue, Green, Turquoise, and Orange. </p> 
 
@@ -149,7 +150,10 @@ src="https://www.youtube.com/embed/1oqyrflOQFc">
 <font size="2"> Specifics: Graph B was ran with the same parameters as Graph A, except for the utilisation or a different indirect distributional measure, namely, cosine_het. </font> <br />
 
 
-<iframe id="iframepdf" src="https://documents.cortext.net/018b/018bfe1c05b2e0b3726751f90438d817/73692/maps/hn-gpgvideos12008_2018top150-videoTitle-authorName-cosine_hetcooc-99999-oT0.13-9999-infFalseoT0.13tagchi2_False.pdf"></iframe>
+<object data="https://documents.cortext.net/018b/018bfe1c05b2e0b3726751f90438d817/73692/maps/hn-gpgvideos12008_2018top150-videoTitle-authorName-cosine_hetcooc-99999-oT0.13-9999-infFalseoT0.13tagchi2_False.pdf" type="application/pdf">
+    <iframe src="https://docs.google.com/viewer?url=your_url_to_pdf&embedded=true"></iframe>
+</object>
+
 
 ### Videos and commenters: Graph C
 
