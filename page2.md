@@ -44,7 +44,7 @@
 
 <p> This map links authors who commented the same thing more than once, this can either be the same comment on the one video, for example commenter Muck006 posts the comment beginning with ‘that is her interview style’ more than once on the video ‘Jordan Peterson debate on the gender pay gap, campus protests and postmodernism’. This might be spam but it shows users repeat their points across the same video. Also, there are examples where authors post the same comment on different videos, for example the comment starting with ‘ for every person (or feminist) reading this:’ (in the blue cluster of the top left corner of the map) has been posted on three different videos by the username ‘pietje bel’. This illustrates a repetitive manner of sharing their message by commenters, across several videos, indicating that these users are commenting in a fairly deliberate way rather than just spontaneously reacting to a video they watched. However, it is hard to see whether this deliberate commenting is motivated by a desire to combat a particular message or whether the user, after watching one video and commenting, fell into a trap of watching multiple videos and copy-pasting the same thing. At very least, this demonstrates a high level of interaction with the videos. </p>
 
-## Semantic network analysis: videos and commentators, Graph A
+## Semantic network analysis: videos and commentators
 
 <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/68152a37682690606dfc90cef9404155
 " frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
@@ -141,45 +141,6 @@ src="https://www.youtube.com/embed/1oqyrflOQFc">
 8. Deal <br />
 9. Dangerous <br />
 10. Human </p> 
-
-
-### Videos and commenters: Graph B
-
-<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/855edde2a6dd006ff50ab9fe24e9e016
-" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
-<font size="2"> Specifics: Graph B was ran with the same parameters as Graph A, except for the utilisation or a different indirect distributional measure, namely, cosine_het. </font> <br />
-
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://documents.cortext.net/018b/018bfe1c05b2e0b3726751f90438d817/73692/maps/hn-gpgvideos12008_2018top150-videoTitle-authorName-cosine_hetcooc-99999-oT0.13-9999-infFalseoT0.13tagchi2_False.pdf" width="600" height="700">
-
-<br />
-
-### Videos and commenters: Graph c 
-
-<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/1fef13a8f723a276a2bdae434395d193
-" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
-
-
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://documents.cortext.net/bf9a/bf9a93b0482fc86b454d797c239af941/74300/maps/hn-gpgvideos12008_2018top150-videoTitle-authorName-chi2cooc-99999-oT3.33-9999-infFalseoT3.33tagchi2_False.pdf" width="600" height="750">
-
-<br />
-
-We produced another map with the same settings, but using the chi2 proximity measure instead, thus using a direct instead of a direct measure, the indirect one taking into account only the number of raw co-occurrences between the two nodes and not global distribution. Thus, the map produced is generally similar but differently ordered. 
-
-
-
-### Videos and commenters: Graph D
-
-<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/5d25180c774b1c6146665dd21805deb1
-" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
-
-
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://documents.cortext.net/2984/2984c5de1fc315a12b439a96ed99eb1c/74024/maps/hn-gpgvideos12008_2018top500-videoTitle-authorName-cosine_hetcooc-99999-oT0.09-9999-louFalseoT0.09tagtf_False.pdf" width="600" height="700">
-
-<br />
-
-<p> The network was built with three variables of videotitle, commentator, and commentators. For this map the amount of nodes was set to 500, with ‘distributional’ proximity measure, heterogeneous edges. We again set ten labels for the third variable, in this case commentators. </p>
-
-<p> Map C links videos with commentators, but instead of adjectives listing the top 10 commentators next to each cluster of videos. While the map looks somewhat cluttered at first sight, the clusters contain videos that the same top ten commentators have engaged with, as seen on the labels next to the clusters, forming small communities around this group of videos. What we can also observe is that some users, such as ‘John Smith’ participate in multiple clusters. </p>
 
 
 ## Semantic network analysis: adjectives and adjectives (100)
