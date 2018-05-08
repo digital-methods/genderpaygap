@@ -149,7 +149,7 @@ src="https://www.youtube.com/embed/1oqyrflOQFc">
 " frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
 <font size="2"> Specifics: log likelihood function and a 0.1 proximity measure and has 150 nodes.  </font> <br />
 
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/digital-methods/genderpaygap/blob/master/100-adj.-to-adj.-semantic-network-map.pdf" width="600" height="700">
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://www.docdroid.net/7HAAoWC/100-adj-to-adj-semantic-network-map.pdf" width="600" height="700">
 
 <p> We produced a semantic network mapping of the 100 most popular adjectives across comments. We can note the presence of several identifiable clusters, which reflect different general discussions using distinct vocabularies to express views on the gender-pay gap on YouTube. </p>
 
