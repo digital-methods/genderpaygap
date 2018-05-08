@@ -12,6 +12,7 @@
 
 <p> Current vocabularies do not pick up slang, emojis, and seem particularly bad for irony and sarcasm, all prominent within YouTube comments and online discourse in general. For that reason, we were unable to successfully perform sentiment analysis of the comments, as it produced unintelligible results. </p>
 
+<p> As noted an additional limitation is that one video provided 49.5% of our comments. In this video Jordan Peterson provided evidence to disprove the gender pay gap, and the female journalist was widely criticised for her aggressive interview style. This popularity of this video potentially skews our the results of our analysis towards those views that also seek to disprove the gender pay gap. As noted though, as the number of disproving videos suggests that the negativity seen the in comments can still be attributed to the dataset as a whole. </p>
 
 ## Semantic network: adjectives and nouns
 
