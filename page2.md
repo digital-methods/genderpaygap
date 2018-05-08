@@ -171,7 +171,7 @@ src="https://www.youtube.com/embed/1oqyrflOQFc">
 " frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
 <font size="2"> Specifics: log likelihood function and a 0.1 proximity measure and has 150 nodes. </font> <br />
 
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/digital-methods/genderpaygap/blob/master/200-adj.-to-adj.-semantic-network-map.pdf" width="600" height="700"><br />
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://raw.githubusercontent.com/digital-methods/genderpaygap/72fae866d40b315a13fa20cb586654eb450cc347/200-adj.-to-adj.-semantic-network-map.pdf" width="600" height="700"><br />
 
 <p> We produced a semantic network mapping of the 200 most popular adjectives across comments. This map allows us to analyse the semantic network mapping of the most popular adjectives further than the 100 adjectives mapping. </p>
 
